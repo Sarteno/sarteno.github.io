@@ -1098,20 +1098,17 @@ section.lazy-placeholder:after {
   letter-spacing: .2rem;
 }
 .cid-rVobBmj0CI .media-container-column {
-  background-color: #c4bc3b;
+  background-color: #dfb519;
 }
 @media (max-width: 767px) {
   .cid-rVobBmj0CI .media-container-column {
     padding: 1rem !important;
   }
 }
-.cid-rVizxEHxpC {
+.cid-rVpUwtCehC {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #f7ed4a;
-}
-.cid-rVizxEHxpC .mbr-section-subtitle {
-  color: #767676;
+  background-image: url("../../../assets/images/cheese-wallpaper-1920x1080.jpg");
 }
 .cid-rVizEuNRoG {
   padding-top: 90px;
@@ -1120,7 +1117,7 @@ section.lazy-placeholder:after {
 .cid-rVizHvjL6C {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(0deg, #787324, #fdd51c);
+  background-image: url("../../../assets/images/cheese-wallpaper-1920x1080.jpg");
 }
 .cid-rVizHvjL6C .mbr-iconfont-social {
   font-size: 32px;
@@ -1131,8 +1128,8 @@ section.lazy-placeholder:after {
 }
 .cid-rVizKxeDQZ {
   padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #787324;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/cheese-wallpaper-1920x1080.jpg");
 }
 .cid-rVizKxeDQZ .row-links {
   width: 100%;
