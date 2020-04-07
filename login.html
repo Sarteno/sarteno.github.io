@@ -4,7 +4,6 @@ echo "<h1>WORK IN PROGRESS<h1/>";
 
  ?>
 <!DOCTYPE html>
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -111,6 +110,12 @@ font-family: "Roboto", sans-serif;
 -moz-osx-font-smoothing: grayscale;
 }
     </style>
+    <script type="text/javascript">
+    $('.message a').click(function(){
+     $('form').animate({height: "toggle", opacity: "toggle"}, "slow");
+  });
+
+    </script>
   </head>
   <body>
     <div class="login-page">
@@ -131,10 +136,5 @@ font-family: "Roboto", sans-serif;
       </div>
     </div>
   </body>
-  <script type="text/javascript">
-  $('.message a').click(function(){
-   $('form').animate({height: "toggle", opacity: "toggle"}, "slow");
-});
 
-  </script>
 </html>
